@@ -14,7 +14,6 @@ Además, me desempeñé como encargado de apoyo y coordinación logística en el
 Me caracterizo por el trabajo en equipo, resolución de problemas y rápida adaptación. Siempre busco seguir aprendiendo y aplicar tecnologías que aporten valor a las personas y organizaciones.</h3>
 <h3 align="left">Desarrollador Backend y Frontend con Django</h3>
 
-**Desarrollador** **Freelance** desde el **2021**, trabajando con distintos equipos en proyectos que van desde **aplicaciones** **de** **escritorio con Java** hasta **sistemas web con Spring Boot**. Paralelamente, estudio la carrera de **Desarrollo de Software** (que comenzó el mismo año que mi trayectoria freelance), con experiencia previa en programación desde antes de la universidad.
 
 
 
