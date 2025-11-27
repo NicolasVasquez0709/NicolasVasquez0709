@@ -6,7 +6,12 @@
 
 <hr style="border: 2px solid #FF5733;">
 
-<h3 align="left">xxxxx</h3>
+<h3 align="left">Estudiante de Ingeniería en Informática en INACAP (2° año), apasionado por el desarrollo de software y la creación de soluciones reales. Experiencia desarrollando aplicaciones con Django, manejo de bases de datos en HeidiSQL y conocimientos en Python, HTML y CSS.
+  
+He participado en proyectos como sistemas de despacho y, en especial, en una plataforma de gestión de donaciones que desarrollé completamente por mi cuenta, aplicando buenas prácticas y trabajo colaborativo cuando corresponde.
+Además, me desempeñé como encargado de apoyo y coordinación logística en el proyecto Genera+EMT de INACAP, gestionando clases para emprendedores, formularios digitales y soporte técnico a docentes y participantes. También fui coordinador suplente vespertino, apoyando la organización institucional y la comunicación interna.
+
+Me caracterizo por el trabajo en equipo, resolución de problemas y rápida adaptación. Siempre busco seguir aprendiendo y aplicar tecnologías que aporten valor a las personas y organizaciones.</h3>
 <h3 align="left">Desarrollador Backend y Frontend con Django</h3>
 
 **Desarrollador** **Freelance** desde el **2021**, trabajando con distintos equipos en proyectos que van desde **aplicaciones** **de** **escritorio con Java** hasta **sistemas web con Spring Boot**. Paralelamente, estudio la carrera de **Desarrollo de Software** (que comenzó el mismo año que mi trayectoria freelance), con experiencia previa en programación desde antes de la universidad.
